@@ -1,5 +1,5 @@
 # ABOUT THIS SITE 
-this site was created for exercise only
+this site was created only for exercise
 # USED TAX & SYNTAXES
 ???
 # ABOUT ME
