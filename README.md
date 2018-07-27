@@ -1,6 +1,7 @@
 # ABOUT THIS SITE 
-this site was created for exercise
+this site was created for exercise only
 # USED TAX & SYNTAXES
-Just #
+???
 # ABOUT ME
-I like cats
+I like **cats**
+
